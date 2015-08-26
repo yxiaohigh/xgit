@@ -1,3 +1,0 @@
-# xgit
-demo
-这是一个demo
